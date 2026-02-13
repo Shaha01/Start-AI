@@ -116,7 +116,7 @@
 #         age = int(input("Enter your age: "))
 #         goal = input("Enter your goal: ")
 
-#         users[name] = {"age": age, "goal": goal}
+# users[name] = {"age": age, "goal": goal}
 
 #         with open("users.json", "w") as file:
 #             json.dump(users, file)
